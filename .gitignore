@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+downloads
+input-mp3.txt
+input-video.txt
